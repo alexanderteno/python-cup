@@ -1,4 +1,4 @@
-class LegOfRaceBettingCard:
+class TakeBetCard:
     CamelId = None
     FirstValue = None
     SecondValue = 1
